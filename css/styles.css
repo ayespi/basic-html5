@@ -1,0 +1,70 @@
+body{
+    font-family: 'century-gothic', helvetica, arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    padding:0px;
+    margin:0px;
+    background-color:#f4f4f4;
+}
+
+
+/*Global Styles*/
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Header Styles*/
+header{
+    background-color: #35424a;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: solid #e8491d 3px;
+}
+
+header a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+header ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+header li{
+    float: left;
+    display: inline;
+    padding: 0px 20px;
+}
+
+header #branding{
+    float: left;
+}
+
+header #branding h1{
+    margin: 0px;
+}
+
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+
+header .highlight{
+
+}
+
+/*Branding Styles*/
+.branding_subtitle{
+    margin: 0px 0px 15px 0px;
+}
